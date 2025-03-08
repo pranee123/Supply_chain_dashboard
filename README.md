@@ -1,5 +1,6 @@
 # 📊 Supply Chain Power BI Dashboard
 <img width="575" alt="Suplly_chain_dashboard" src="https://github.com/user-attachments/assets/0fbf020e-36ab-4f2c-9a7f-c26d3d13d0ef" />
+
 ## 📌 Overview
 This repository contains a **Power BI dashboard** that provides insights into supply chain data, including **customer orders, suppliers, products, and revenue analytics**.
 
